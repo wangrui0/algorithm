@@ -45,7 +45,7 @@ public class Demo01TwoSumOfNumbers {
     /**
      * @param numbers
      * @param target
-     * @return 以结果为导向，根据一个数字判断另一个数字有没有；
+     * @return 以结果为导向，根据一个数字判断另一个数字有没有，充分利用集合的特性来处理；
      *
      * 复杂度分析：
      *
